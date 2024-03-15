@@ -1,7 +1,7 @@
 from discord_webhook import DiscordWebhook, DiscordEmbed
 import time
 import datetime 
-import kurcm
+import src.kurcm as kurcm
 
 
 
