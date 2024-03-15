@@ -10,6 +10,8 @@
 - https://discord.com/api/oauth2/authorize?client_id=1207017285181513789&permissions=8&scope=bot
 - Autoamsyon's Support Server 👇
 - https://discord.gg/m9SwQvQ8xh
+- Please click to run the bot 👇
+- python3 dc-bot.py
 
 - Produced by Buğra Akdemir
 
