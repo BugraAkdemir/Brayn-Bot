@@ -1,0 +1,10 @@
+bilgi = "YARDIM\n\nNORMAL KOMUTLAR\n!normal\n\nOyunlar İÇİN\n!oyunlar\n\nADMİN KOMUTLARI İÇİN\n!admin"
+oyunlar = "Zar Atma\n !oyun zar\n\nTAŞ KAĞIT MAKAS OYUNU\n!tkmk\n\nADAM ASMACA OYUNU İÇİN\n!adamasmaca\n\n"
+admink = "KULLANICIYI BANLAMAK İÇİN\n!ban @KULLANICI\n\nKULLANICININ BANINI KALDIRMAK İÇİN\n!unban @kullanıcı\n\nKULLANICI ATMA\n!kick @kullanıcı\n\nKULLANICI ROL VERME\n!rolver @kullancı @rol\n\nKullanıcıya Seviye Verme\n!seviye_ver @kullanıcı seviye"
+normalb = "BOTUN PİNG'i\n!ping\n\nBOTUN DAVET LİNKİ\n!davet\n\nBOTUN SÜRÜMÜNÜ ÖĞRENMEK İÇİN\n!version --akd\n\nSeviyeni Öğren\n!seviye @kullanıcı\n\nResim Komutları\n!resim_bilgi\n\nVidio Komutları\n!vidio_bilgi"
+tkmk = "OYNAMAK İÇİN LÜTFEN BİR NESNE ŞEÇİN\n!tkm makas\n!tkm taş\n!tkm kağıt"
+hata_m = "Eğer Komutlari Bilmiyorsan\n!yardim veya !help\n Komutlarini Kullan"
+resim_b = "Resim Kaydetmek İçin\n\n!resim\nyazdıktan sonra resminizi Gönderin\n\n!resim_bul resimismi.png\nkomutu kaydediğiniz resmi size göderir\n\n!resimler\nkomutu kayıtlı bütün resimlerin ismini listeler"
+vidio_b = "Vidio Kaydetmek İçin\n\n!vidio\nyazdıktan sonra resminizi Gönderin\n\n!vidio_bul vidioismi.mp4\nkomutu kaydediğiniz resmi size göderir\n\n!vidiolar\nkomutu kayıtlı bütün vidiolerin ismini listeler"
+#--------------------------------------------İNGİLİZCE-------------------------
+bilgi2 = "HELP\n\nNORMAL COMMANDS\n!basic\n\nFOR Games\n!games\n\nFOR ADMIN COMMANDS\n!admin"
